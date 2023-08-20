@@ -1,7 +1,7 @@
 ---
 title: David Vargas
 role: Senior Systems Administrator / Azure Administrator Associate
-avatar_filename: davidvargas.png
+avatar_filename: avatar.jpg
 bio: Seasoned IT Professional with excellent technical and problem solving
   skills | Systems Administration | Azure Cloud Administration | Virtualization
   Technology | Email Administration
@@ -33,6 +33,7 @@ social:
     link: https://github.com/digiDavids
     display:
       header: true
+    label: GitHub
   - icon: cv
     icon_pack: ai
     link: uploads/david-vargas-resume.pdf
