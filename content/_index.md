@@ -228,7 +228,7 @@ sections:
         street: 
         city: 
         region: Arkansas
-        postcode: '94305'
+        postcode: '72687'
         country: United States
         country_code: US
       directions: 

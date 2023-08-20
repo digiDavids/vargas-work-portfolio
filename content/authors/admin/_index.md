@@ -56,10 +56,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Vargas
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: David
+email: "dbvargas@gmail.com"
 ---
 <!--StartFragment-->
 
