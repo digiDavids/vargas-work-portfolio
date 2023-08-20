@@ -22,27 +22,29 @@ social:
     display:
       header: true
     label: LinkedIn Profile
-  - icon: microsoft
-    icon_pack: fab
-    link: https://learn.microsoft.com/en-us/users/dbvargas/
-    label: Microsoft Learn Profile
-    display:
-      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/digiDavids
     display:
       header: true
     label: GitHub
-  - icon: cv
-    icon_pack: ai
-    link: uploads/david-vargas-resume.pdf
+  - icon: microsoft
+    icon_pack: fab
+    link: https://learn.microsoft.com/en-us/users/dbvargas/
+    label: Microsoft Learn Profile
+    display:
+      header: true
   - display:
       header: true
     link: https://www.cloudskillsboost.google/public_profiles/0758a677-3270-47f7-b829-ac0085e0cf38
     icon_pack: fab
     icon: google
     label: Google Cloud Skills
+  - icon: cv
+    icon_pack: ai
+    link: uploads/david-vargas-resume.pdf
+    display:
+      header: false
 organizations:
   - name: Texas State Technical College
     url: https://www.tstc.edu/
