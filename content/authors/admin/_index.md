@@ -50,7 +50,7 @@ organizations:
     url: https://www.tstc.edu/
 education:
   courses:
-    - course: "Microsoft Certified: Azure Administrator Associate"
+    - course: " Azure Administrator Associate"
       institution: Microsoft
       year: 2023
 superuser: true
