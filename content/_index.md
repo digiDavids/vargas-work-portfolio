@@ -43,7 +43,7 @@ sections:
         - title: Lifelong Learner
           company: Online Learning 
           company_url: 'https://admin.vargaspctech.com/tech-training-resources'
-          company_logo: house-laptop
+          company_logo: leanpub
           location: Arkansas
           date_start: '2021-09-01'
           date_end: ''
