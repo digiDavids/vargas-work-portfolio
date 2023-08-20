@@ -16,21 +16,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
+  - icon: <i class="fa-brands fa-microsoft"></i>
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://learn.microsoft.com/en-us/users/dbvargas/
+    label: Microsoft Learn Profile
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/digiDavids
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dvargas/
+    display:
+      header: true
+    label: Linkedin Profile
   - icon: cv
     icon_pack: ai
     link: uploads/david-vargas-resume.pdf
