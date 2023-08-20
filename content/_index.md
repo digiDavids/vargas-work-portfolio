@@ -51,7 +51,7 @@ sections:
         - title: Data Center Operations Analyst III / Sr Systems Administrator
           company: Tokyo Electron US
           company_url: 'http://www.tel.com/'
-          company_logo: city
+          company_logo: building-regular
           location: Austin, TX
           date_start: '1998-06-01'
           date_end: '2021-09-01'
