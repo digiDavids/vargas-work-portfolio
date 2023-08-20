@@ -238,7 +238,7 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: '[skype:echo123?call](https://join.skype.com/invite/a42lRG0OGpAv)'
+          link: 'https://join.skype.com/invite/a42lRG0OGpAv'
         - icon: video
           icon_pack: fas
           name: Zoom Me
