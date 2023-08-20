@@ -48,7 +48,7 @@ social:
 organizations:
   - name: Texas State Technical College
     url: https://www.tstc.edu/
-certifications:
+education:
   courses:
     - course: " Azure Administrator Associate"
       institution: Microsoft
