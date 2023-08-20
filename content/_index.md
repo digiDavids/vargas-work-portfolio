@@ -40,27 +40,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Lifelong Learner
+          company: Online Learning 
+          company_url: 'https://admin.vargaspctech.com/tech-training-resources'
+          company_logo: house-laptop
+          location: Arkansas
+          date_start: '2021-09-01'
           date_end: ''
+          description: Educating myself with Online Training and Upskilling Certifications. 
+        - title: Data Center Operations Analyst III / Sr Systems Administrator
+          company: Tokyo Electron US
+          company_url: 'http://www.tel.com/'
+          company_logo: city
+          location: Austin, TX
+          date_start: '1998-06-01'
+          date_end: '2021-09-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Managed a robust Microsoft O365/M365 and Hybrid On-Premise environment for 3000+ users.
+              * Migrated on-premise mailboxes to Exchange Online.
+              * Developed Powershell scripts to automate tasks.
+              * Reported on Office 365 Infrastructure.
+              * Managed Data Center servers.
+              * Worked with other departments to identify technology solutions.
+              * Managed support cases using Microsoft Dynamics CRM Helpdesk.
+              * Monitor and maintain enterprise email system
+              * Perform hardware, software, and network upgrades
+              * Implement and maintain system security
+              * Support enterprise VMware environments
+              * Implement backup strategy
+              * Assist coworkers and provide daily tech support
     design:
       columns: '2'
   - block: accomplishments
