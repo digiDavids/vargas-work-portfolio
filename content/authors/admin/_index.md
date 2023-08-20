@@ -48,7 +48,7 @@ social:
 organizations:
   - name: Texas State Technical College
     url: https://www.tstc.edu/
-education:
+Certifications:
   courses:
     - course: " Azure Administrator Associate"
       institution: Microsoft
@@ -56,10 +56,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Vargas
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: David
+email: "dbvargas@gmail.com"
 ---
 <!--StartFragment-->
 
