@@ -86,14 +86,19 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+        - certificate_url: https://learn.microsoft.com/en-us/users/dbvargas/credentials/bf5a58d5c951d57f
+          date_end: '2024-07-07'
+          date_start: '2023-07-06'
+          description: '  Skills measured 
+                          Manage Azure identities and governance
+                          Implement and manage storage
+                          Deploy and manage Azure compute resources
+                          Implement and manage virtual networking
+                          Monitor and maintain Azure resources'
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: Azure Administrator Associate
+          url: 'https://learn.microsoft.com/en-us/certifications/azure-administrator/'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -171,7 +176,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="websites" >}}
     design:
       columns: '1'
   - block: collection
