@@ -16,7 +16,7 @@ sections:
   - block: features
     content:
       title: Skills
-      columns: '4'
+      columns: '2'
       items:
             - name:	Active Directory
             - name:	Antivirus
