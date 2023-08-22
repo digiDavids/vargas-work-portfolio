@@ -12,35 +12,77 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: features
+    content:
+      title: Skills
+      columns: '4'
+      items:
+            - name:	Active Directory
+            - name:	Antivirus
+            - name:	Azure Active Directory
+            - name:	Cloud Computing
+            - name:	Data Centers
+            - name:	Domain Name System (DNS)
+            - name:	Dynamic Host Configuration Protocol (DHCP)
+            - name:	Hyper-V
+            - name:	LDAP
+            - name:	Microsoft Azure
+            - name:	Microsoft Teams
+            - name:	Mobile Device Management
+            - name:	Office 365
+            - name:	Powershell
+            - name:	Problem Solving
+            - name:	Robocopy
+            - name:	Scripting
+            - name:	Simple Mail Transfer Protocol (SMTP)
+            - name:	System Administration
+            - name:	Troubleshooting
+            - name:	Virtualization
+            - name:	VMWare ESXi
+            - name:	VMware Infrastructure
+            - name:	VMware vSphere vCenter
+            - name:	Adaptability
+            - name:	Collaboration
+            - name:	Critical thinking
+            - name:	Excellent work ethic
+            - name:	Hardware knowledge
+            - name:	Infrastructure planning
+            - name:	Leadership
+            - name:	Multitasking abilities
+            - name:	Responsible
+            - name:	Servers expertise
+            - name:	Teamwork
+            - name:	Technical Analysis
+            - name:	Verbal and written communication
   - block: features
     content:
       title: Skills Rating
       items:
-        - name: Troubleshooting
-          description: 95%
-          icon: sistrix
-          icon_pack: fab
-        - name: Cloud Computing
-          description: 90%
-          icon: cloud
-          icon_pack: fas        
-        - name: Project Management
-          description: 75%
-          icon: chart-bar
-          icon_pack: fas
-        - name: Collaboration
-          description: 90%
-          icon: people-group
-          icon_pack: fas
-        - name: Web Creation
-          description: 90%
-          icon: globe
-          icon_pack: fas
-  - block: features
-    content:
-      title: Skills
-      items:
-            - name: Troubleshooting
+          - name: Troubleshooting
+            description: 95%
+            icon: sistrix
+            icon_pack: fab
+          - name: Cloud Computing
+            description: 90%
+            icon: cloud
+            icon_pack: fas        
+          - name: Project Management
+            description: 75%
+            icon: chart-bar
+            icon_pack: fas
+          - name: Collaboration
+            description: 90%
+            icon: people-group
+            icon_pack: fas
+          - name: Web Creation
+            description: 90%
+            icon: globe
+            icon_pack: fas
+          - name: Documentation
+            description: 90%
+            icon: book
+            icon_pack: fas
   - block: experience
     content:
       title: Experience
