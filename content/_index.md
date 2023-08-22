@@ -36,6 +36,11 @@ sections:
           description: 90%
           icon: globe
           icon_pack: fas
+  - block: skills
+    content:
+      title: Skills
+      items:
+            - name: Troubleshooting
   - block: experience
     content:
       title: Experience
