@@ -50,9 +50,18 @@ organizations:
     url: https://www.tstc.edu/
 education:
   courses:
-    - course: " Azure Administrator Associate"
+    - course: "Azure Administrator Associate"
       institution: Microsoft
       year: 2023
+    - course: "Microsoft Certified Solutions Associate (MCSA)"
+      institution: Microsoft
+      year: 2012
+    - course: "CompTIA A+"
+      institution: CompTIA
+      year: 2000
+    - course: "Associate of Applied Science (AAS)"
+      institution: Texas State Technical College
+      year: 2000
 superuser: true
 status:
   icon: ☕️
