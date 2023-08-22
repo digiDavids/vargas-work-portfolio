@@ -36,7 +36,7 @@ sections:
           description: 90%
           icon: globe
           icon_pack: fas
-  - block: skills
+  - block: features
     content:
       title: Skills
       items:
