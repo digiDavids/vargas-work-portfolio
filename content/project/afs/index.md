@@ -1,8 +1,8 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Project website creation...
+summary: This is an example of a live project website for a client.
 tags:
-  - Demo
+  - Website Projects
 date: "2021-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
