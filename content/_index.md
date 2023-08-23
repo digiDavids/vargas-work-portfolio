@@ -54,7 +54,7 @@ sections:
   - block: features
     content:
       title: Software & Apps 
-      columns: '2'
+      columns: ''
       items:
             - name:	Antivirus -
                       -	Avast
@@ -68,18 +68,19 @@ sections:
                       -	Trend Micro
                 ---
             - name: Operating Systems -
-                        | Client operating systems | Server operating systems | Linux distributions	|
-                        |--                        |--                        |--                   |
-                        |Windows 11 (2021)	   	   |Windows Server 2022 (2022)|CentOS       				|
-                        |Windows 10 (2015)		     |Windows Server 2019 (2019)|Debian	  		      	|
-                        |Windows 8.1 (2013)		     |Windows Server 2016 (2016)|Ubuntu	        			|
-                        |Windows 8 (2012)		       |Windows Server 2012 R2 (2013)|					        |
-                        |Windows 7 (2009)	   	     |Windows Server 2012 (2012)|						          |
-                        |Windows Vista (2007)	     |Windows Server 2008 (2008)| 					          |
-                        |Windows XP (2001)         |Windows Server 2003 (2003)|						          |
-                        |Windows ME (2000)	   	   |Windows 2000 Server (2000)|                     |
-                        |Windows 2000 (2000)	   |||
-                        |Windows 98 (1998)         ||| 
+                      | Client operating systems | Server operating systems      | Linux distributions |
+                      |--------------------------|-------------------------------|---------------------|
+                      |                          |                               |                     |
+                      | Windows 98 (1998)        | Windows 2000 Server (2000)    | Ubuntu              |
+                      | Windows 2000 (2000)      | Windows Server 2003 (2003)    | Debian              |
+                      | Windows ME (2000)        | Windows Server 2008 (2008)    | CentOS              |
+                      | Windows XP (2001)        | Windows Server 2008 R2 (2009) |                     |
+                      | Windows Vista (2007)     | Windows Server 2012 (2012)    |                     |
+                      | Windows 7 (2009)         | Windows Server 2012 R2 (2013) |                     |
+                      | Windows 8 (2012)         | Windows Server 2016 (2016)    |                     |
+                      | Windows 8.1 (2013)       | Windows Server 2019 (2019)    |                     |
+                      | Windows 10 (2015)        | Windows Server 2022 (2022)    |                     |
+                      | Windows 11 (2021)        |                               |                     |
   - block: features
     content:
       title: Skills Rating
