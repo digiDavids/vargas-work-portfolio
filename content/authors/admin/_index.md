@@ -9,9 +9,10 @@ interests:
   - Cloud Technologies
   - Virtualization
   - Artificial Intelligence
-  - DevOps(IaC)
-  - Web Design
-  - CI/CD
+  - DevOps (Infra as Code)
+  - Web Design & Creation
+  - Building CI/CD Pipelines
+  - 
 social:
   - icon: envelope
     icon_pack: fas
@@ -61,7 +62,7 @@ education:
       year: 2000
     - course: "Associate of Applied Science (AAS)"
       institution: Texas State Technical College
-      year: 2000
+      year: 1998
 superuser: true
 status:
   icon: ☕️
