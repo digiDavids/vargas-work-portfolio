@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Professional Summary
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
@@ -19,18 +19,14 @@ sections:
       columns: '2'
       items:
             - name:	Active Directory
-            - name:	Antivirus
             - name:	Azure Active Directory
             - name:	Cloud Computing
-            - name:	Data Centers
             - name:	Domain Name System (DNS)
             - name:	Dynamic Host Configuration Protocol (DHCP)
             - name:	Hyper-V
-            - name:	LDAP
+            - name:	Lightweight Directory Access Protocol (LDAP)
             - name:	Microsoft Azure
-            - name:	Microsoft Teams
             - name:	Mobile Device Management
-            - name:	Office 365
             - name:	Powershell
             - name:	Problem Solving
             - name:	Robocopy
@@ -55,6 +51,36 @@ sections:
             - name:	Teamwork
             - name:	Technical Analysis
             - name:	Verbal and written communication
+  - block: features
+    content:
+      title: Software & Apps 
+      columns: ''
+      items:
+            - name:	Antivirus -
+                      -	Avast
+                      -	AVG
+                      -	Kaspersky
+                      -	MalwareBytes 
+                      -	McAfee
+                      -	Microsoft Defender
+                      -	Norton
+                      -	TotalAV
+                      -	Trend Micro
+                ---
+            - name: Operating Systems -
+                      | Client operating systems | Server operating systems      | Linux distributions |
+                      |--------------------------|-------------------------------|---------------------|
+                      |                          |                               |                     |
+                      | Windows 98 (1998)        | Windows 2000 Server (2000)    | Ubuntu              |
+                      | Windows 2000 (2000)      | Windows Server 2003 (2003)    | Debian              |
+                      | Windows ME (2000)        | Windows Server 2008 (2008)    | CentOS              |
+                      | Windows XP (2001)        | Windows Server 2008 R2 (2009) |                     |
+                      | Windows Vista (2007)     | Windows Server 2012 (2012)    |                     |
+                      | Windows 7 (2009)         | Windows Server 2012 R2 (2013) |                     |
+                      | Windows 8 (2012)         | Windows Server 2016 (2016)    |                     |
+                      | Windows 8.1 (2013)       | Windows Server 2019 (2019)    |                     |
+                      | Windows 10 (2015)        | Windows Server 2022 (2022)    |                     |
+                      | Windows 11 (2021)        |                               |                     |
   - block: features
     content:
       title: Skills Rating
