@@ -8,11 +8,11 @@ bio: Seasoned IT Professional with excellent technical and problem solving
 interests:
   - Cloud Technologies
   - Virtualization
-  - Artificial Intelligence
+  - Scripting
   - DevOps (Infra as Code)
   - Web Design & Creation
   - Building CI/CD Pipelines
-  - 
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -57,6 +57,15 @@ education:
     - course: "Microsoft Certified Solutions Associate (MCSA)"
       institution: Microsoft
       year: 2012
+    - course: "Microsoft Certified Professional (MCP)"
+      institution: Microsoft
+      year: 2012
+    - course: "Microsoft Certified IT Professional (MCITP)"
+      institution: Microsoft
+      year: 2009
+    - course: "Microsoft Certified Certified Technology Specialist (MCTS)"
+      institution: Microsoft
+      year: 2009
     - course: "CompTIA A+"
       institution: CompTIA
       year: 2000
@@ -73,6 +82,6 @@ email: "dbvargas@gmail.com"
 ---
 <!--StartFragment-->
 
-Seasoned IT professional with more than 20 years of experience. My knowledge of Server Administration, Azure Cloud Administration, Virtualization Technology, and Email Administration provides a solid foundation for future growth within a great company. I strive to keep learning all aspects of technology and how it can best be utilized in our daily activities. I enjoy working with others in a team collaboration as well as completing projects on my own.
+I am a seasoned IT professional with over 20 years of experience. My expertise in server administration, Azure cloud administration, virtualization technology, and email administration provides me with a solid foundation for future growth with a great company. I am always learning new things about technology and how it can be used to improve our daily lives. I enjoy working with others in a team environment, but I also enjoy working on projects independently.
 
 <!--EndFragment-->
