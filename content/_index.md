@@ -57,15 +57,16 @@ sections:
       columns: '2'
       items:
             - name:	Antivirus -
-                      *	Avast
-                      *	AVG
-                      *	Kaspersky
-                      *	MalwareBytes 
-                      *	McAfee
-                      *	Microsoft Defender
-                      *	Norton
-                      *	TotalAV
-                      *	Trend Micro
+                      -	Avast
+                      -	AVG
+                      -	Kaspersky
+                      -	MalwareBytes 
+                      -	McAfee
+                      -	Microsoft Defender
+                      -	Norton
+                      -	TotalAV
+                      -	Trend Micro
+                ---
             - name: Operating Systems -
                         | Client operating systems | Server operating systems | Linux distributions	|
                         |--                        |--                        |--                   |
