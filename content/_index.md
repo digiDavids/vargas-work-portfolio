@@ -65,7 +65,7 @@ sections:
             icon: cloud
             icon_pack: fas        
           - name: Project Management
-            description: 75%
+            description: 85%
             icon: chart-bar
             icon_pack: fas
           - name: Collaboration
