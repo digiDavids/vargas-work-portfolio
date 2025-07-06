@@ -138,7 +138,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/DBVargas/865C7450D94E3B1A?sharingId=8A823BAF779A77B6
+        - certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-us/DBVargas/865C7450D94E3B1A?sharingId=8A823BAF779A77B6'
           date_end: '2026-08-28'
           date_start: '2024-08-28'
           description: '  Skills measured 
