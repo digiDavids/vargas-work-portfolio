@@ -187,29 +187,22 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to reach out, I am actively seeking remote work from the State of Arkansas!
+         
       # Contact (add or remove contact options as necessary)
-      email: dbvargas@gmail.com
+      email:  
       phone: +1‪(512) 761-6273‬
       address:
         street: 
         city: 
-        region: Arkansas
-        postcode: '72687'
+        region:  
+        postcode: ' '
         country: United States
         country_code: US
       directions: 
       office_hours:
         - 'Weekdays 10:00am to 5:00pm'
       contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'https://join.skype.com/invite/a42lRG0OGpAv'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.us'
+         
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
