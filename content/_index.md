@@ -139,17 +139,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-us/DBVargas/865C7450D94E3B1A?sharingId=8A823BAF779A77B6'
-          date_end: '2026-08-28'
-          date_start: '2024-08-28'
+          date_end: 'Aug 2026'
+          date_start: 'Aug 2024'
           description: '  Skills measured 
                           Implement and manage user identities
                           Implement authentication and access management
                           Plan and implement workload identities
                           Plan and implement identity governance'
-          organization: MicrosoftL
+          organization: Microsoft
           organization_url: https://www.microsoft.com
           title: Identity and Access Administrator Associate
           url: 'https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/'
+          
       items:
         - certificate_url: https://learn.microsoft.com/en-us/users/dbvargas/credentials/bf5a58d5c951d57f
           date_end: '2024-07-07'
