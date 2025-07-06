@@ -138,6 +138,19 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: [Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/DBVargas/865C7450D94E3B1A?sharingId=8A823BAF779A77B6)
+          date_end: '2026-08-28'
+          date_start: '2024-08-28'
+          description: '  Skills measured 
+                          Implement and manage user identities
+                          Implement authentication and access management
+                          Plan and implement workload identities
+                          Plan and implement identity governance'
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: Identity and Access Administrator Associate
+          url: 'https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/'
+      items:
         - certificate_url: https://learn.microsoft.com/en-us/users/dbvargas/credentials/bf5a58d5c951d57f
           date_end: '2024-07-07'
           date_start: '2023-07-06'
@@ -150,7 +163,7 @@ sections:
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: Azure Administrator Associate
-          url: 'https://learn.microsoft.com/en-us/certifications/azure-administrator/'
+          url: 'https://learn.microsoft.com/en-us/certifications/azure-administrator/'    
     design:
       columns: '2'
   - block: portfolio
@@ -200,7 +213,7 @@ sections:
         country_code: US
       directions: 
       office_hours:
-        - 'Weekdays 10:00am to 5:00pm'
+        - ''
       contact_links:
          
       # Automatically link email and phone or display as text?
@@ -212,7 +225,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

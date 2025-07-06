@@ -54,7 +54,7 @@ education:
     - course: "Identity and Access Administrator Associate"
       institution: Microsoft
       year: 2024
-      2023- course: "Azure Administrator Associate"
+    - course: "Azure Administrator Associate"
       institution: Microsoft
       year: 2023
     - course: "Microsoft Certified Solutions Associate (MCSA)"
