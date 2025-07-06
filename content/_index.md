@@ -212,8 +212,8 @@ sections:
         country: United States
         country_code: US
       directions: 
-      office_hours:
-        - ''
+      #office_hours:
+      #  - ''
       contact_links:
          
       # Automatically link email and phone or display as text?
