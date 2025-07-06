@@ -146,7 +146,7 @@ sections:
                           Implement authentication and access management
                           Plan and implement workload identities
                           Plan and implement identity governance'
-          organization: Microsoft
+          organization: MicrosoftL
           organization_url: https://www.microsoft.com
           title: Identity and Access Administrator Associate
           url: 'https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/'
@@ -204,14 +204,14 @@ sections:
       # Contact (add or remove contact options as necessary)
       email:  
       phone: +1‪(512) 761-6273‬
-      address:
-        street: 
-        city: 
-        region:  
-        postcode: ' '
-        country: United States
-        country_code: US
-      directions: 
+      #address:
+       # street: 
+        #city: 
+        #region:  
+        #postcode: ' '
+        #country: United States
+        #country_code: US
+     #directions: 
       #office_hours:
       #  - ''
       contact_links:
