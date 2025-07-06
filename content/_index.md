@@ -65,7 +65,7 @@ sections:
             icon: cloud
             icon_pack: fas        
           - name: Project Management
-            description: 75%
+            description: 85%
             icon: chart-bar
             icon_pack: fas
           - name: Collaboration
@@ -138,6 +138,20 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-us/DBVargas/865C7450D94E3B1A?sharingId=8A823BAF779A77B6'
+          date_end: 'Aug 2026'
+          date_start: 'Aug 2024'
+          description: '  Skills measured 
+                          Implement and manage user identities
+                          Implement authentication and access management
+                          Plan and implement workload identities
+                          Plan and implement identity governance'
+          organization: Microsoft
+          organization_url: https://www.microsoft.com
+          title: Identity and Access Administrator Associate
+          url: 'https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/'
+          
+      items:
         - certificate_url: https://learn.microsoft.com/en-us/users/dbvargas/credentials/bf5a58d5c951d57f
           date_end: '2024-07-07'
           date_start: '2023-07-06'
@@ -150,7 +164,7 @@ sections:
           organization: Microsoft
           organization_url: https://www.microsoft.com
           title: Azure Administrator Associate
-          url: 'https://learn.microsoft.com/en-us/certifications/azure-administrator/'
+          url: 'https://learn.microsoft.com/en-us/certifications/azure-administrator/'    
     design:
       columns: '2'
   - block: portfolio
@@ -187,29 +201,22 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to reach out, I am actively seeking remote work from the State of Arkansas!
+         
       # Contact (add or remove contact options as necessary)
-      email: dbvargas@gmail.com
+      email:  
       phone: +1‪(512) 761-6273‬
-      address:
-        street: 
-        city: 
-        region: Arkansas
-        postcode: '72687'
-        country: United States
-        country_code: US
-      directions: 
-      office_hours:
-        - 'Weekdays 10:00am to 5:00pm'
+      #address:
+       # street: 
+        #city: 
+        #region:  
+        #postcode: ' '
+        #country: United States
+        #country_code: US
+     #directions: 
+      #office_hours:
+      #  - ''
       contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'https://join.skype.com/invite/a42lRG0OGpAv'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.us'
+         
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -219,7 +226,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

@@ -41,16 +41,19 @@ social:
     icon_pack: fab
     icon: google
     label: Google Cloud Skills
-  - icon: cv
-    icon_pack: ai
-    link: uploads/david-vargas-resume.pdf
-    display:
-      header: false
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/david-vargas-resume.pdf
+#    display:
+ #     header: false
 organizations:
   - name: Texas State Technical College
     url: https://www.tstc.edu/
 education:
   courses:
+    - course: "Identity and Access Administrator Associate"
+      institution: Microsoft
+      year: 2024
     - course: "Azure Administrator Associate"
       institution: Microsoft
       year: 2023
@@ -78,7 +81,7 @@ status:
 last_name: Vargas
 highlight_name: true
 first_name: David
-email: "dbvargas@gmail.com"
+email: ""
 ---
 <!--StartFragment-->
 
